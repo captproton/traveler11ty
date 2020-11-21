@@ -53,5 +53,11 @@
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "dependencies": {
+    "bl": "^4.0.3",
+    "bufferutil": "^4.0.2",
+    "puppeteer-core": "^5.5.0",
+    "utf-8-validate": "^5.0.3"
+  }
 }
